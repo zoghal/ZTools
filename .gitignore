@@ -1,0 +1,4 @@
+/logs/*
+/tmp/*
+/vendor/*
+/php_errors.log

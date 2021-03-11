@@ -1,0 +1,19 @@
+{
+    "name": "zoghal/ztools",
+    "description": "ZTools custom utility tools for working cPanel & Server configs to checking secrity...",
+    "type": "project",
+    "license": "MIT",
+    "authors": [{
+        "name": "Saleh Souzanchi",
+        "email": "saleh.souzanchi@gmail.com"
+    }],
+    "require": {
+        "jelix/inifile": "^3.2",
+        "cakephp/console": "^4.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tools\\": "."
+        }
+    }
+}
